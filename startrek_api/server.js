@@ -20,7 +20,7 @@ const aliens = {
         "features":"Pointed ears, upward-curving eyebrows",
         "interestingFact":"Practice an extreme form of emotional regulation that focuses on logic above all else, pioneered by a Vulcan named Surak",
         "notableExamples":"Spock, T'Pol, Surek",
-        "image":'https://static.wikia.nocookie.net.aliens.images/7/75/Vulcans-FirstContact.jpg'
+        "image":'https://static.wikia.nocookie.net/aliens/images/7/75/Vulcans-FirstContact.jpg'
     },
     "klingons":{
         "speciesName":"Klingons",
@@ -36,7 +36,7 @@ const aliens = {
         "features":"Pointed ears, upward-curving eyebrows, green tinge to the skin, diagonal smooth forehead ridges (sometimes)",
         "interestingFact":"Share a common ancestry with Vulcans, though none of the emotional discipline. Romulus has a sister planet, Remus, on which the Remans are seem as lesser beings",
         "notableExamples":"Pardek, Tal'aura, Narissa",
-        "image":'https://static.nocookie.net/aliens/images/1/1d/Zzzd7.jpg'
+        "image":'https://static.wikia.nocookie.net/aliens/images/1/1d/Zzzd7.jpg'
     },
     "borg":{
         "speciesName":"(The) Borg",
@@ -44,7 +44,7 @@ const aliens = {
         "features":"pale skin, numerous interior and exterior biological modifications",
         "interestingFact":"No single genetic lineage, species propagates by assimilating individuals via nanotechnology, lead",
         "notableExamples":"Borg Queen, Seven of Nine, Locutus",
-        "image":'https://static.wikia.nonookie.net/aliens/images/7/76/Borg.jpg'
+        "image":'https://static.wikia.nocookie.net/aliens/images/7/76/Borg.jpg'
     },
     "gorn":{
         "speciesName":"Gorn",
